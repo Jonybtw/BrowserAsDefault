@@ -19,7 +19,7 @@ This C++ application automates setting any browser as the default on Windows sys
 - **Flexibility**: Supports setting any browser as default, not limited to Firefox or a specific browser.
 - **Reliability**: Provides a consistent method to set a browser as default without requiring repeated manual intervention.
 
-## How to Add to Startup?
+## "The default browser always resets on boot. How can I ensure it's set as default every time my PC boots?"
 
 To ensure the application runs on startup:
 
